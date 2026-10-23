@@ -90,12 +90,6 @@ The notebook also imports `get_strategy` from a local `utils.ml_utils` module, w
 
 **Before running anything**, set the data and output locations. Input and output directories are currently defined at the top of each MATLAB script, and the notebook collects its settings in the `2. Configuration — edit here` cell, where the participant, session and block to process are also selected.
 
-# Data sharing
-
-Raw and preprocessed recordings for the four participants are available at `<data repository / DOI>`. The feature tables consumed by `train_all_emo_baseline_final_V2.ipynb` are available at `<link>`.
-
-The emotion labels follow the taxonomy of Cowen and Keltner; the 15 categories analysed here are Calmness, Entrancement, Confusion, Boredom, Interest, Satisfaction, Relief, Excitement, Awkwardness, Amusement, Adoration, Joy, Admiration, Awe and Aesthetic Appreciation.
-
 # Citation
 
 ```bibtex
